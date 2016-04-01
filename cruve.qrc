@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>kaiti.TTF</file>
+    </qresource>
+</RCC>
